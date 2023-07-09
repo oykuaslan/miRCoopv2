@@ -1,0 +1,20 @@
+source,target,CancerTypes,count
+miR-200a-3p,miR-200b-3p,OV - HNSC - LUSC - PRAD - STAD - BLCA,6
+miR-142-3p,miR-142-5p,KIRC - BRCA - PCPG - TGCT - BLCA,5
+miR-142-5p,miR-155-5p,BRCA - HNSC - TGCT - LGG - STAD,5
+miR-17-5p,miR-19a-3p,ESCA - BRCA - SARC - STAD - BLCA,5
+miR-19a-3p,miR-20a-5p,BRCA - HNSC - LUSC - STAD - BLCA,5
+miR-106a-5p,miR-20b-5p,BRCA - HNSC - THYM - PRAD,4
+miR-130a-3p,miR-142-3p,BRCA - SARC - LIHC - STAD,4
+miR-141-3p,miR-183-5p,HNSC - THYM - LUSC - STAD,4
+miR-17-5p,miR-20a-3p,BRCA - SARC - STAD - BLCA,4
+miR-182-5p,miR-183-5p,ESCA - SARC - LGG - BLCA,4
+miR-18a-3p,miR-19a-3p,COAD - BRCA - LUAD - BLCA,4
+miR-19a-3p,miR-500b-5p,BRCA - HNSC - SARC - BLCA,4
+miR-19a-3p,miR-96-5p,COAD - LUAD - THYM - STAD,4
+miR-200a-3p,miR-33a-5p,HNSC - PRAD - LGG - THCA,4
+miR-204-5p,miR-301b-3p,THYM - TGCT - BLCA - THCA,4
+miR-326,miR-331-3p,BRCA - LGG - STAD - BLCA,4
+miR-33a-5p,miR-33b-5p,HNSC - SARC - PRAD - STAD,4
+miR-33a-5p,miR-940,BRCA - LGG - STAD - THCA,4
+miR-7-1-3p,miR-92a-1-5p,BRCA - THYM - SARC - TGCT,4

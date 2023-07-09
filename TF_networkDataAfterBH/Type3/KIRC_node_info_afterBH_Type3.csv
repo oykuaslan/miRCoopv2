@@ -1,0 +1,11 @@
+shared_name,name,info
+mir-1270,mir-1270,mirna
+mir-1270,mir-1270,mirna
+mir-204-5p,mir-204-5p,mirna
+mir-215-5p,mir-215-5p,mirna
+BACH2_tf,BACH2,tf
+NCOA3_tf,NCOA3,tf
+DAAM1_target,DAAM1,target
+UBR5_target,UBR5,target
+mir-1270/mir-204-5p,"",dummy
+mir-1270/mir-215-5p,"",dummy

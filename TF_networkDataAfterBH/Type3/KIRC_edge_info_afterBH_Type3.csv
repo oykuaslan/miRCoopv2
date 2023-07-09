@@ -1,0 +1,11 @@
+fsource,target,ModeOfRegulation,edgeType
+mir-1270,mir-1270/mir-204-5p,"",direct
+mir-1270,mir-1270/mir-215-5p,"",direct
+mir-204-5p,mir-1270/mir-204-5p,"",direct
+mir-215-5p,mir-1270/mir-215-5p,"",direct
+mir-1270/mir-204-5p,BACH2_tf,"",direct
+mir-1270/mir-215-5p,NCOA3_tf,"",direct
+BACH2_tf,DAAM1_target,1,direct
+NCOA3_tf,UBR5_target,1,direct
+mir-1270/mir-204-5p,DAAM1_target,"",indirect
+mir-1270/mir-215-5p,UBR5_target,"",indirect

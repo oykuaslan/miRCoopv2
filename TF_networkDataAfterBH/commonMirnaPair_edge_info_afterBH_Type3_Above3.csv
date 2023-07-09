@@ -1,0 +1,18 @@
+source,target,CancerTypes,count
+miR-183-5p,miR-96-5p,HNSC - UCEC - LUAD - THYM - TGCT - LGG - LIHC - STAD - BLCA,9
+miR-182-5p,miR-96-5p,HNSC - TGCT - PRAD - LGG - STAD - BLCA,6
+miR-106a-5p,miR-20b-5p,BRCA - THYM - TGCT - PRAD - BLCA,5
+miR-17-5p,miR-19a-3p,BRCA - THYM - SARC - STAD - BLCA,5
+miR-17-5p,miR-20a-5p,BRCA - THYM - LIHC - BLCA - STAD,5
+miR-18a-5p,miR-20a-3p,HNSC - SARC - LIHC - BLCA - STAD,5
+miR-18a-5p,miR-20a-5p,HNSC - LUAD - THYM - LUSC - BLCA,5
+miR-19a-3p,miR-19b-3p,BRCA - HNSC - LUSC - SARC - STAD,5
+miR-9-3p,miR-9-5p,HNSC - LUSC - SARC - TGCT - BLCA,5
+miR-106a-5p,miR-17-5p,THYM - LUSC - STAD - BLCA,4
+miR-130b-3p,miR-17-5p,BRCA - THYM - STAD - BLCA,4
+miR-130b-3p,miR-18a-5p,UCEC - THYM - STAD - BLCA,4
+miR-17-5p,miR-18a-5p,BRCA - SARC - STAD - BLCA,4
+miR-18a-5p,miR-19a-3p,COAD - SARC - STAD - BLCA,4
+miR-18a-5p,miR-301a-3p,COAD - HNSC - UCEC - BLCA,4
+miR-19b-3p,miR-20a-5p,BRCA - HNSC - SARC - STAD,4
+miR-301a-3p,miR-301b-3p,HNSC - LUAD - LIHC - BLCA,4

@@ -1,0 +1,16 @@
+source,target,ModeOfRegulation,edgeType
+let-7c-5p,let-7c-5p/mir-30a-3p,"",direct
+mir-130b-3p,mir-130b-3p/mir-301b-3p,"",direct
+mir-429,mir-429/mir-592,"",direct
+mir-30a-3p,let-7c-5p/mir-30a-3p,"",direct
+mir-301b-3p,mir-130b-3p/mir-301b-3p,"",direct
+mir-592,mir-429/mir-592,"",direct
+let-7c-5p/mir-30a-3p,MYC_tf,"",direct
+mir-130b-3p/mir-301b-3p,NFKB1_tf,"",direct
+mir-429/mir-592,MYC_tf,"",direct
+MYC_tf,DKC1_target,1,direct
+NFKB1_tf,PLAUR_target,1,direct
+MYC_tf,TGFB2_target,1,direct
+let-7c-5p/mir-30a-3p,DKC1_target,"",indirect
+mir-130b-3p/mir-301b-3p,PLAUR_target,"",indirect
+mir-429/mir-592,TGFB2_target,"",indirect

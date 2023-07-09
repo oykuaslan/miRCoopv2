@@ -1,0 +1,11 @@
+source,target,ModeOfRegulation,edgeType
+mir-33b-5p,mir-33b-5p/mir-887-3p,"",direct
+mir-17-3p,mir-17-3p/mir-30d-5p,"",direct
+mir-887-3p,mir-33b-5p/mir-887-3p,"",direct
+mir-30d-5p,mir-17-3p/mir-30d-5p,"",direct
+mir-33b-5p,SP1_tf,"",direct
+mir-17-3p,PRDM1_tf,"",direct
+SP1_tf,HTT_target,1,direct
+PRDM1_tf,PRKCH_target,1,direct
+mir-33b-5p/mir-887-3p,HTT_target,"",indirect
+mir-17-3p/mir-30d-5p,PRKCH_target,"",indirect

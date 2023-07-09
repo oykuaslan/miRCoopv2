@@ -1,0 +1,11 @@
+shared_name,name,info
+mir-33b-5p,mir-33b-5p,mirna
+mir-17-3p,mir-17-3p,mirna
+mir-887-3p,mir-887-3p,mirna
+mir-30d-5p,mir-30d-5p,mirna
+SP1_tf,SP1,tf
+PRDM1_tf,PRDM1,tf
+HTT_target,HTT,target
+PRKCH_target,PRKCH,target
+mir-33b-5p/mir-887-3p,"",dummy
+mir-17-3p/mir-30d-5p,"",dummy

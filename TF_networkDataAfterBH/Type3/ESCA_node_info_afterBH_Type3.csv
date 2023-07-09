@@ -1,0 +1,11 @@
+shared_name,name,info
+mir-100-5p,mir-100-5p,mirna
+mir-192-5p,mir-192-5p,mirna
+mir-152-3p,mir-152-3p,mirna
+mir-215-5p,mir-215-5p,mirna
+ZBTB7A_tf,ZBTB7A,tf
+NCOA3_tf,NCOA3,tf
+LAMA5_target,LAMA5,target
+SYNE2_target,SYNE2,target
+mir-100-5p/mir-152-3p,"",dummy
+mir-192-5p/mir-215-5p,"",dummy

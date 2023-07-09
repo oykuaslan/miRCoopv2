@@ -1,0 +1,4 @@
+miRNA1,miRNA2,TF,Target,ModeOfRegulation,TwoVar_mirna1_tf,TwoVar_mirna1_target,TwoVar_mirna2_target,mirna1mirna2_target,BH_rejected,BH_pvalues_adjusted
+hsa-mir-142-5p,hsa-mir-194-3p,1316,3949,1,0.0095,0.0155,0.2745,0.0,True,0.0
+hsa-mir-127-5p,hsa-mir-376c-3p,860,9645,1,0.003,0.0215,0.101,0.0,True,0.0
+hsa-mir-376c-3p,hsa-mir-379-5p,860,9645,1,0.0085,0.103,0.0165,0.0,True,0.0

@@ -1,0 +1,106 @@
+source,target,edgeType,CancerTypes
+miR-1-3p,miR-1-3p/miR-874-3p,direct,
+miR-126-5p,miR-126-5p/miR-940,direct,
+miR-127-5p,miR-127-5p/miR-381-3p,direct,
+miR-130b-3p,miR-130b-3p/miR-92a-1-5p,direct,
+miR-130b-5p,miR-130b-5p/miR-141-3p,direct,
+miR-142-3p,miR-142-3p/miR-142-5p,direct,
+miR-142-5p,miR-142-5p/miR-323a-3p,direct,
+miR-17-5p,miR-17-5p/miR-18a-3p,direct,
+miR-181d-5p,miR-181d-5p/miR-194-5p,direct,
+miR-182-5p,miR-182-5p/miR-874-3p,direct,
+miR-18a-5p,miR-18a-5p/miR-193b-3p,direct,
+miR-18a-5p,miR-18a-5p/miR-296-5p,direct,
+miR-18a-5p,miR-18a-5p/miR-96-5p,direct,
+miR-19a-3p,miR-19a-3p/miR-222-3p,direct,
+miR-19a-3p,miR-19a-3p/miR-501-5p,direct,
+miR-218-5p,miR-218-5p/miR-323a-3p,direct,
+miR-335-5p,miR-335-5p/miR-424-5p,direct,
+miR-335-5p,miR-335-5p/miR-484,direct,
+miR-495-3p,miR-495-3p/miR-874-3p,direct,
+miR-495-3p,miR-495-3p/miR-874-3p,direct,
+miR-629-3p,miR-629-3p/miR-93-3p,direct,
+miR-874-3p,miR-1-3p/miR-874-3p,direct,
+miR-940,miR-126-5p/miR-940,direct,
+miR-381-3p,miR-127-5p/miR-381-3p,direct,
+miR-92a-1-5p,miR-130b-3p/miR-92a-1-5p,direct,
+miR-141-3p,miR-130b-5p/miR-141-3p,direct,
+miR-142-5p,miR-142-3p/miR-142-5p,direct,
+miR-323a-3p,miR-142-5p/miR-323a-3p,direct,
+miR-18a-3p,miR-17-5p/miR-18a-3p,direct,
+miR-194-5p,miR-181d-5p/miR-194-5p,direct,
+miR-874-3p,miR-182-5p/miR-874-3p,direct,
+miR-193b-3p,miR-18a-5p/miR-193b-3p,direct,
+miR-296-5p,miR-18a-5p/miR-296-5p,direct,
+miR-96-5p,miR-18a-5p/miR-96-5p,direct,
+miR-222-3p,miR-19a-3p/miR-222-3p,direct,
+miR-501-5p,miR-19a-3p/miR-501-5p,direct,
+miR-323a-3p,miR-218-5p/miR-323a-3p,direct,
+miR-424-5p,miR-335-5p/miR-424-5p,direct,
+miR-484,miR-335-5p/miR-484,direct,
+miR-874-3p,miR-495-3p/miR-874-3p,direct,
+miR-874-3p,miR-495-3p/miR-874-3p,direct,
+miR-93-3p,miR-629-3p/miR-93-3p,direct,
+miR-1-3p,STAT3_tf,direct,
+miR-126-5p,SP1_tf,direct,
+miR-127-5p,ARID2_tf,direct,
+miR-130b-3p,MEF2A_tf,direct,
+miR-130b-5p,MEF2A_tf,direct,
+miR-142-3p,ZKSCAN1_tf,direct,
+miR-142-5p,NFYB_tf,direct,
+miR-17-5p,ESR1_tf,direct,
+miR-181d-5p,ARID2_tf,direct,
+miR-182-5p,KLF6_tf,direct,
+miR-18a-5p,ESR1_tf,direct,
+miR-18a-5p,IRF3_tf,direct,
+miR-18a-5p,STAT3_tf,direct,
+miR-19a-3p,NCOA1_tf,direct,
+miR-19a-3p,MEF2A_tf,direct,
+miR-218-5p,SMAD3_tf,direct,
+miR-335-5p,GLI2_tf,direct,
+miR-335-5p,BACH2_tf,direct,
+miR-495-3p,RELA_tf,direct,
+miR-495-3p,STAT3_tf,direct,
+miR-629-3p,CTCF_tf,direct,
+STAT3_tf,CCL2_target,direct,
+SP1_tf,B4GALT1_target,direct,
+ARID2_tf,TNPO1_target,direct,
+MEF2A_tf,ITGB1_target,direct,
+MEF2A_tf,EFR3A_target,direct,
+ZKSCAN1_tf,CHD9_target,direct,
+NFYB_tf,NEK7_target,direct,
+ESR1_tf,NEK6_target,direct,
+ARID2_tf,CDK17_target,direct,
+KLF6_tf,ERRFI1_target,direct,
+ESR1_tf,MDM2_target,direct,
+IRF3_tf,SLC25A28_target,direct,
+STAT3_tf,PTGS2_target,direct,
+NCOA1_tf,BPTF_target,direct,
+MEF2A_tf,IPCEF1_target,direct,
+SMAD3_tf,ITGA11_target,direct,
+GLI2_tf,GLI1_target,direct,
+BACH2_tf,ETS1_target,direct,
+RELA_tf,CCL2_target,direct,
+STAT3_tf,CCL2_target,direct,
+CTCF_tf,NCBP3_target,direct,
+miR-1-3p/miR-874-3p,CCL2_target,indirect,SARC - LGG
+miR-126-5p/miR-940,B4GALT1_target,indirect,KIRP - LGG
+miR-127-5p/miR-381-3p,TNPO1_target,indirect,LGG - THCA
+miR-130b-3p/miR-92a-1-5p,ITGB1_target,indirect,SARC - BLCA
+miR-130b-5p/miR-141-3p,EFR3A_target,indirect,SARC - STAD
+miR-142-3p/miR-142-5p,CHD9_target,indirect,PCPG - BLCA
+miR-142-5p/miR-323a-3p,NEK7_target,indirect,LGG - LIHC
+miR-17-5p/miR-18a-3p,NEK6_target,indirect,STAD - BLCA
+miR-181d-5p/miR-194-5p,CDK17_target,indirect,SARC - BLCA
+miR-182-5p/miR-874-3p,ERRFI1_target,indirect,SARC - STAD
+miR-18a-5p/miR-193b-3p,MDM2_target,indirect,SARC - STAD
+miR-18a-5p/miR-296-5p,SLC25A28_target,indirect,SARC - STAD
+miR-18a-5p/miR-96-5p,PTGS2_target,indirect,LUAD - STAD
+miR-19a-3p/miR-222-3p,BPTF_target,indirect,BRCA - BLCA
+miR-19a-3p/miR-501-5p,IPCEF1_target,indirect,SARC - STAD
+miR-218-5p/miR-323a-3p,ITGA11_target,indirect,SARC - LGG
+miR-335-5p/miR-424-5p,GLI1_target,indirect,STAD - BLCA
+miR-335-5p/miR-484,ETS1_target,indirect,BRCA - STAD
+miR-495-3p/miR-874-3p,CCL2_target,indirect,SARC - LGG
+miR-495-3p/miR-874-3p,CCL2_target,indirect,SARC - LGG
+miR-629-3p/miR-93-3p,NCBP3_target,indirect,BRCA - STAD

@@ -1,0 +1,16 @@
+shared_name,name,info
+mir-142-5p,mir-142-5p,mirna
+mir-127-5p,mir-127-5p,mirna
+mir-376c-3p,mir-376c-3p,mirna
+mir-194-3p,mir-194-3p,mirna
+mir-376c-3p,mir-376c-3p,mirna
+mir-379-5p,mir-379-5p,mirna
+KLF6_tf,KLF6,tf
+RUNX2_tf,RUNX2,tf
+RUNX2_tf,RUNX2,tf
+LDLR_target,LDLR,target
+MICAL2_target,MICAL2,target
+MICAL2_target,MICAL2,target
+mir-142-5p/mir-194-3p,"",dummy
+mir-127-5p/mir-376c-3p,"",dummy
+mir-376c-3p/mir-379-5p,"",dummy

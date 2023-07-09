@@ -1,0 +1,6 @@
+source,target,ModeOfRegulation,edgeType
+mir-181c-3p,mir-181c-3p/mir-363-3p,"",direct
+mir-363-3p,mir-181c-3p/mir-363-3p,"",direct
+mir-181c-3p/mir-363-3p,RBPJ_tf,"",direct
+RBPJ_tf,FOXP1_target,1,direct
+mir-181c-3p/mir-363-3p,FOXP1_target,"",indirect

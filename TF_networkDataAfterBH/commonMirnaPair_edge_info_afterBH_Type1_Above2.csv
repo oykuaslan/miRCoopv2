@@ -1,0 +1,819 @@
+source,target,CancerTypes,count
+miR-200a-3p,miR-200b-3p,OV - HNSC - LUSC - PRAD - STAD - BLCA,6
+miR-142-3p,miR-142-5p,KIRC - BRCA - PCPG - TGCT - BLCA,5
+miR-142-5p,miR-155-5p,BRCA - HNSC - TGCT - LGG - STAD,5
+miR-17-5p,miR-19a-3p,ESCA - BRCA - SARC - STAD - BLCA,5
+miR-19a-3p,miR-20a-5p,BRCA - HNSC - LUSC - STAD - BLCA,5
+miR-106a-5p,miR-20b-5p,BRCA - HNSC - THYM - PRAD,4
+miR-130a-3p,miR-142-3p,BRCA - SARC - LIHC - STAD,4
+miR-141-3p,miR-183-5p,HNSC - THYM - LUSC - STAD,4
+miR-17-5p,miR-20a-3p,BRCA - SARC - STAD - BLCA,4
+miR-182-5p,miR-183-5p,ESCA - SARC - LGG - BLCA,4
+miR-18a-3p,miR-19a-3p,COAD - BRCA - LUAD - BLCA,4
+miR-19a-3p,miR-500b-5p,BRCA - HNSC - SARC - BLCA,4
+miR-19a-3p,miR-96-5p,COAD - LUAD - THYM - STAD,4
+miR-200a-3p,miR-33a-5p,HNSC - PRAD - LGG - THCA,4
+miR-204-5p,miR-301b-3p,THYM - TGCT - BLCA - THCA,4
+miR-326,miR-331-3p,BRCA - LGG - STAD - BLCA,4
+miR-33a-5p,miR-33b-5p,HNSC - SARC - PRAD - STAD,4
+miR-33a-5p,miR-940,BRCA - LGG - STAD - THCA,4
+miR-7-1-3p,miR-92a-1-5p,BRCA - THYM - SARC - TGCT,4
+let-7c-5p,miR-125b-5p,SARC - TGCT - STAD,3
+let-7c-5p,miR-92a-1-5p,SARC - TGCT - BLCA,3
+let-7g-3p,miR-331-3p,LGG - STAD - BLCA,3
+miR-1-3p,miR-203a-3p,SARC - LGG - LIHC,3
+miR-106a-5p,miR-18a-5p,HNSC - THYM - BLCA,3
+miR-125b-5p,miR-136-5p,COAD - SARC - BLCA,3
+miR-125b-5p,miR-145-5p,THYM - CESC - STAD,3
+miR-125b-5p,miR-199a-3p,THYM - SARC - BLCA,3
+miR-127-5p,miR-145-5p,BRCA - LGG - CESC,3
+miR-129-5p,miR-940,BRCA - LUSC - LGG,3
+miR-130a-3p,miR-29a-5p,BRCA - LUAD - SARC,3
+miR-130a-3p,miR-675-3p,BRCA - SARC - BLCA,3
+miR-130a-3p,miR-93-3p,BRCA - LUAD - SARC,3
+miR-130b-3p,miR-148a-3p,SARC - STAD - BLCA,3
+miR-130b-3p,miR-17-5p,BRCA - SARC - STAD,3
+miR-130b-3p,miR-193b-3p,CESC - BLCA - STAD,3
+miR-130b-3p,miR-20a-5p,THYM - STAD - BLCA,3
+miR-130b-3p,miR-92a-1-5p,BRCA - SARC - BLCA,3
+miR-130b-5p,miR-142-3p,BRCA - TGCT - STAD,3
+miR-130b-5p,miR-19a-3p,SARC - STAD - BLCA,3
+miR-130b-5p,miR-589-3p,BRCA - STAD - BLCA,3
+miR-135b-5p,miR-148a-3p,BRCA - STAD - BLCA,3
+miR-141-3p,miR-429,THYM - LUSC - BLCA,3
+miR-141-3p,miR-7-5p,THYM - STAD - BLCA,3
+miR-142-3p,miR-148a-3p,SARC - STAD - BLCA,3
+miR-145-5p,miR-30a-3p,SARC - STAD - BLCA,3
+miR-145-5p,miR-330-3p,PCPG - SARC - LGG,3
+miR-145-5p,miR-766-3p,SARC - LGG - BLCA,3
+miR-148a-3p,miR-16-2-3p,BRCA - SARC - STAD,3
+miR-148a-3p,miR-19a-3p,BRCA - SARC - STAD,3
+miR-148a-3p,miR-9-5p,HNSC - SARC - THCA,3
+miR-155-5p,miR-342-3p,BRCA - STAD - BLCA,3
+miR-155-5p,miR-532-3p,BRCA - SARC - STAD,3
+miR-155-5p,miR-7-5p,HNSC - LUAD - TGCT,3
+miR-155-5p,miR-92a-1-5p,UCEC - STAD - BLCA,3
+miR-17-5p,miR-181a-2-3p,THYM - SARC - BLCA,3
+miR-17-5p,miR-18a-3p,LUSC - STAD - BLCA,3
+miR-17-5p,miR-18a-5p,BRCA - STAD - BLCA,3
+miR-17-5p,miR-942-5p,SARC - STAD - BLCA,3
+miR-182-5p,miR-204-5p,HNSC - KIRP - THCA,3
+miR-182-5p,miR-20a-5p,UCEC - STAD - BLCA,3
+miR-182-5p,miR-29c-3p,SARC - TGCT - LGG,3
+miR-182-5p,miR-335-5p,SARC - STAD - BLCA,3
+miR-182-5p,miR-7-5p,TGCT - PRAD - BLCA,3
+miR-182-5p,miR-766-3p,SARC - TGCT - BLCA,3
+miR-183-5p,miR-424-5p,HNSC - STAD - BLCA,3
+miR-183-5p,miR-503-5p,SARC - STAD - THCA,3
+miR-183-5p,miR-766-3p,BRCA - TGCT - BLCA,3
+miR-183-5p,miR-96-5p,THYM - TGCT - BLCA,3
+miR-18a-5p,miR-193b-3p,LUAD - SARC - STAD,3
+miR-18a-5p,miR-203a-3p,COAD - CESC - STAD,3
+miR-18a-5p,miR-20a-5p,THYM - SARC - BLCA,3
+miR-18a-5p,miR-301b-3p,SARC - LGG - BLCA,3
+miR-192-5p,miR-194-5p,ESCA - SARC - STAD,3
+miR-193b-3p,miR-20a-5p,UCEC - STAD - BLCA,3
+miR-19a-3p,miR-19b-1-5p,SARC - STAD - BLCA,3
+miR-19a-3p,miR-20b-5p,THYM - STAD - BLCA,3
+miR-19a-3p,miR-33a-5p,COAD - BRCA - BLCA,3
+miR-19a-3p,miR-500a-5p,HNSC - LUAD - BLCA,3
+miR-19a-3p,miR-501-5p,BRCA - SARC - STAD,3
+miR-19a-3p,miR-503-5p,BRCA - SARC - STAD,3
+miR-19a-3p,miR-93-3p,SARC - STAD - BLCA,3
+miR-19b-3p,miR-7-1-3p,BRCA - SARC - STAD,3
+miR-19b-3p,miR-93-3p,BRCA - SARC - STAD,3
+miR-200c-3p,miR-424-5p,TGCT - STAD - BLCA,3
+miR-20a-5p,miR-224-5p,BRCA - LIHC - STAD,3
+miR-20a-5p,miR-320b,SARC - STAD - BLCA,3
+miR-20a-5p,miR-7-5p,HNSC - THYM - STAD,3
+miR-221-3p,miR-299-5p,THYM - LGG - BLCA,3
+miR-221-5p,miR-503-5p,PRAD - STAD - BLCA,3
+miR-29a-3p,miR-424-5p,SARC - TGCT - BLCA,3
+miR-29b-3p,miR-766-3p,SARC - LGG - BLCA,3
+miR-301a-3p,miR-503-5p,SARC - TGCT - BLCA,3
+miR-30a-5p,miR-30c-2-3p,UCEC - LUAD - THYM,3
+miR-330-3p,miR-425-5p,SARC - LGG - BLCA,3
+miR-335-5p,miR-424-5p,BRCA - STAD - BLCA,3
+miR-338-3p,miR-7-5p,HNSC - LGG - STAD,3
+miR-339-5p,miR-362-3p,SARC - STAD - BLCA,3
+miR-33a-5p,miR-345-5p,BRCA - UCEC - STAD,3
+miR-33b-5p,miR-940,SARC - LGG - STAD,3
+miR-424-5p,miR-500a-5p,HNSC - SARC - STAD,3
+miR-424-5p,miR-503-5p,BRCA - STAD - THCA,3
+miR-484,miR-532-3p,BRCA - SARC - STAD,3
+miR-484,miR-625-5p,BRCA - SARC - STAD,3
+miR-744-3p,miR-940,LGG - STAD - BLCA,3
+let-7a-2-3p,miR-126-3p,SARC - STAD,2
+let-7a-2-3p,miR-219a-1-3p,SARC - LGG,2
+let-7c-5p,miR-1-3p,TGCT - STAD,2
+let-7c-5p,miR-125b-2-3p,ESCA - BRCA,2
+let-7c-5p,miR-17-5p,SARC - BLCA,2
+let-7c-5p,miR-18a-5p,UCEC - SARC,2
+let-7c-5p,miR-199a-3p,PCPG - SARC,2
+let-7c-5p,miR-19b-1-5p,SARC - BLCA,2
+let-7c-5p,miR-204-5p,LUSC - SARC,2
+let-7c-5p,miR-218-5p,STAD - BLCA,2
+let-7c-5p,miR-29b-3p,SARC - TGCT,2
+let-7c-5p,miR-3065-3p,LUAD - STAD,2
+let-7c-5p,miR-335-5p,KIRP - TGCT,2
+let-7c-5p,miR-34c-5p,BRCA - STAD,2
+let-7c-5p,miR-424-5p,SARC - TGCT,2
+let-7e-5p,miR-129-5p,SARC - LGG,2
+let-7e-5p,miR-199b-3p,TGCT - LGG,2
+let-7f-5p,miR-2110,ESCA - THCA,2
+let-7g-3p,miR-185-3p,LGG - BLCA,2
+let-7g-3p,miR-296-5p,BRCA - STAD,2
+let-7g-3p,miR-29b-3p,LGG - BLCA,2
+let-7g-3p,miR-33a-5p,BRCA - BLCA,2
+let-7g-3p,miR-744-3p,BRCA - LGG,2
+let-7g-3p,miR-940,LGG - STAD,2
+miR-1-3p,miR-143-3p,LGG - STAD,2
+miR-1-3p,miR-148a-3p,LGG - STAD,2
+miR-1-3p,miR-204-5p,HNSC - LGG,2
+miR-1-3p,miR-20a-5p,SARC - BLCA,2
+miR-1-3p,miR-218-5p,HNSC - LGG,2
+miR-1-3p,miR-338-3p,TGCT - LGG,2
+miR-1-3p,miR-378a-5p,BRCA - LGG,2
+miR-1-3p,miR-582-3p,TGCT - LGG,2
+miR-1-3p,miR-874-3p,SARC - LGG,2
+miR-101-5p,miR-184,THYM - LGG,2
+miR-101-5p,miR-31-5p,THYM - LGG,2
+miR-103a-2-5p,miR-130a-3p,HNSC - BLCA,2
+miR-103a-2-5p,miR-193b-3p,HNSC - BLCA,2
+miR-103a-2-5p,miR-335-3p,BRCA - SARC,2
+miR-103a-2-5p,miR-362-3p,STAD - BLCA,2
+miR-106a-5p,miR-18a-3p,LIHC - BLCA,2
+miR-106a-5p,miR-196b-5p,HNSC - BLCA,2
+miR-106a-5p,miR-19a-3p,LUSC - STAD,2
+miR-106a-5p,miR-19b-1-5p,STAD - BLCA,2
+miR-106a-5p,miR-19b-3p,BRCA - LUSC,2
+miR-106a-5p,miR-301a-3p,LUSC - BLCA,2
+miR-106a-5p,miR-320d,TGCT - STAD,2
+miR-106a-5p,miR-338-3p,BRCA - HNSC,2
+miR-106a-5p,miR-454-3p,BRCA - HNSC,2
+miR-106a-5p,miR-7-1-3p,BRCA - THYM,2
+miR-106a-5p,miR-9-5p,THYM - TGCT,2
+miR-106a-5p,miR-92b-3p,THYM - TGCT,2
+miR-106a-5p,miR-93-3p,BRCA - BLCA,2
+miR-10a-5p,miR-145-5p,LIHC - BLCA,2
+miR-1179,miR-1224-5p,PAAD - LGG,2
+miR-1179,miR-592,PAAD - LGG,2
+miR-1224-5p,miR-370-3p,TGCT - LGG,2
+miR-1226-3p,miR-424-5p,TGCT - STAD,2
+miR-124-3p,miR-124-5p,TGCT - LGG,2
+miR-124-3p,miR-378a-3p,TGCT - LGG,2
+miR-124-3p,miR-378a-5p,TGCT - LGG,2
+miR-124-3p,miR-494-3p,TGCT - LGG,2
+miR-124-3p,miR-7-5p,TGCT - LGG,2
+miR-125a-3p,miR-22-5p,SARC - LGG,2
+miR-125b-2-3p,miR-133a-3p,SARC - BLCA,2
+miR-125b-2-3p,miR-199a-5p,SARC - TGCT,2
+miR-125b-2-3p,miR-199b-5p,SARC - TGCT,2
+miR-125b-2-3p,miR-200a-3p,BRCA - BLCA,2
+miR-125b-2-3p,miR-410-3p,BRCA - SARC,2
+miR-125b-2-3p,miR-424-5p,SARC - TGCT,2
+miR-125b-5p,miR-130a-3p,THYM - SARC,2
+miR-125b-5p,miR-133a-3p,SARC - BLCA,2
+miR-125b-5p,miR-142-3p,SARC - BLCA,2
+miR-125b-5p,miR-148a-3p,SARC - BLCA,2
+miR-125b-5p,miR-199a-5p,SARC - TGCT,2
+miR-125b-5p,miR-199b-5p,THYM - TGCT,2
+miR-125b-5p,miR-219a-1-3p,SARC - BLCA,2
+miR-125b-5p,miR-299-5p,THYM - SARC,2
+miR-125b-5p,miR-29b-3p,SARC - TGCT,2
+miR-125b-5p,miR-31-5p,THYM - STAD,2
+miR-125b-5p,miR-331-3p,SARC - STAD,2
+miR-125b-5p,miR-335-5p,TGCT - BLCA,2
+miR-125b-5p,miR-338-3p,SARC - BLCA,2
+miR-125b-5p,miR-494-3p,STAD - BLCA,2
+miR-125b-5p,miR-9-5p,SARC - TGCT,2
+miR-125b-5p,miR-93-3p,SARC - BLCA,2
+miR-126-5p,miR-127-5p,BRCA - LGG,2
+miR-126-5p,miR-181c-5p,SARC - LGG,2
+miR-126-5p,miR-185-5p,SARC - LGG,2
+miR-126-5p,miR-299-5p,SARC - LGG,2
+miR-126-5p,miR-331-3p,BRCA - LGG,2
+miR-126-5p,miR-940,KIRP - LGG,2
+miR-127-5p,miR-129-5p,SARC - LGG,2
+miR-127-5p,miR-155-5p,SARC - THCA,2
+miR-127-5p,miR-203a-3p,LGG - STAD,2
+miR-127-5p,miR-221-3p,LGG - BLCA,2
+miR-127-5p,miR-370-3p,LGG - STAD,2
+miR-127-5p,miR-376c-3p,ACC - BLCA,2
+miR-127-5p,miR-381-3p,LGG - THCA,2
+miR-127-5p,miR-424-5p,BRCA - STAD,2
+miR-127-5p,miR-7-5p,LGG - LIHC,2
+miR-1271-5p,miR-424-5p,BRCA - TGCT,2
+miR-128-3p,miR-766-3p,THYM - LGG,2
+miR-1287-5p,miR-377-3p,LGG - BLCA,2
+miR-129-5p,miR-133a-3p,BRCA - LGG,2
+miR-129-5p,miR-145-5p,LGG - STAD,2
+miR-129-5p,miR-204-5p,PAAD - LGG,2
+miR-129-5p,miR-320d,BRCA - STAD,2
+miR-129-5p,miR-338-5p,LGG - STAD,2
+miR-129-5p,miR-410-3p,LUAD - LGG,2
+miR-129-5p,miR-7-5p,PAAD - LGG,2
+miR-129-5p,miR-744-3p,LGG - STAD,2
+miR-1296-5p,miR-33a-5p,LGG - CESC,2
+miR-1301-3p,miR-155-5p,BRCA - STAD,2
+miR-1301-3p,miR-503-5p,BRCA - STAD,2
+miR-1301-3p,miR-940,SARC - BLCA,2
+miR-130a-3p,miR-148a-3p,SARC - BLCA,2
+miR-130a-3p,miR-183-5p,SARC - BLCA,2
+miR-130a-3p,miR-196a-5p,THYM - BLCA,2
+miR-130a-3p,miR-20a-3p,BRCA - SARC,2
+miR-130a-3p,miR-20a-5p,LUAD - STAD,2
+miR-130a-3p,miR-212-3p,BRCA - SARC,2
+miR-130a-3p,miR-27a-5p,BRCA - BLCA,2
+miR-130a-3p,miR-29b-3p,LUAD - BLCA,2
+miR-130a-3p,miR-301b-3p,HNSC - BLCA,2
+miR-130a-3p,miR-324-5p,SARC - BLCA,2
+miR-130a-3p,miR-331-3p,SARC - BLCA,2
+miR-130a-3p,miR-345-5p,HNSC - SARC,2
+miR-130a-3p,miR-424-5p,BRCA - BLCA,2
+miR-130a-3p,miR-429,LUAD - BLCA,2
+miR-130a-3p,miR-450b-5p,THYM - SARC,2
+miR-130a-3p,miR-491-5p,BRCA - SARC,2
+miR-130a-3p,miR-503-5p,BRCA - SARC,2
+miR-130a-3p,miR-671-5p,BRCA - BLCA,2
+miR-130a-3p,miR-7-1-3p,THYM - SARC,2
+miR-130a-3p,miR-766-3p,SARC - BLCA,2
+miR-130a-3p,miR-940,THYM - BLCA,2
+miR-130b-3p,miR-135b-5p,THYM - STAD,2
+miR-130b-3p,miR-141-3p,TGCT - STAD,2
+miR-130b-3p,miR-16-2-3p,SARC - STAD,2
+miR-130b-3p,miR-93-3p,BRCA - SARC,2
+miR-130b-3p,miR-93-5p,STAD - BLCA,2
+miR-130b-3p,miR-96-5p,UCEC - STAD,2
+miR-130b-5p,miR-141-3p,SARC - STAD,2
+miR-130b-5p,miR-148a-3p,BRCA - SARC,2
+miR-130b-5p,miR-17-5p,STAD - BLCA,2
+miR-130b-5p,miR-182-5p,STAD - BLCA,2
+miR-130b-5p,miR-193b-3p,BRCA - STAD,2
+miR-130b-5p,miR-20a-5p,SARC - BLCA,2
+miR-130b-5p,miR-424-5p,SARC - STAD,2
+miR-130b-5p,miR-491-5p,BRCA - SARC,2
+miR-130b-5p,miR-511-5p,BRCA - BLCA,2
+miR-130b-5p,miR-548v,BRCA - STAD,2
+miR-130b-5p,miR-942-5p,TGCT - STAD,2
+miR-132-3p,miR-144-3p,SARC - LGG,2
+miR-132-3p,miR-149-5p,SARC - LGG,2
+miR-132-3p,miR-185-5p,SARC - LGG,2
+miR-132-3p,miR-218-5p,SARC - LGG,2
+miR-132-3p,miR-330-3p,SARC - LGG,2
+miR-133a-3p,miR-145-5p,LGG - STAD,2
+miR-133a-3p,miR-183-5p,BRCA - TGCT,2
+miR-133a-3p,miR-203a-3p,SARC - LGG,2
+miR-133a-3p,miR-20a-5p,SARC - BLCA,2
+miR-133a-3p,miR-29c-3p,LGG - BLCA,2
+miR-133a-3p,miR-331-3p,LGG - STAD,2
+miR-134-5p,miR-330-3p,SARC - LGG,2
+miR-135a-5p,miR-3065-3p,PAAD - TGCT,2
+miR-135b-5p,miR-183-5p,HNSC - TGCT,2
+miR-135b-5p,miR-19b-3p,HNSC - STAD,2
+miR-135b-5p,miR-219a-5p,TGCT - BLCA,2
+miR-135b-5p,miR-335-5p,BRCA - BLCA,2
+miR-135b-5p,miR-7-5p,TGCT - BLCA,2
+miR-136-5p,miR-377-3p,LGG - BLCA,2
+miR-136-5p,miR-410-3p,THYM - LGG,2
+miR-136-5p,miR-485-3p,THYM - SARC,2
+miR-138-5p,miR-204-5p,LGG - THCA,2
+miR-138-5p,miR-940,LGG - THCA,2
+miR-139-5p,miR-766-3p,BRCA - LGG,2
+miR-141-3p,miR-141-5p,TGCT - STAD,2
+miR-141-3p,miR-182-5p,THYM - LUSC,2
+miR-141-3p,miR-195-5p,THYM - BLCA,2
+miR-141-3p,miR-196a-5p,THYM - TGCT,2
+miR-141-3p,miR-200b-3p,LUSC - BLCA,2
+miR-141-3p,miR-205-5p,TGCT - BLCA,2
+miR-141-3p,miR-338-3p,PRAD - BLCA,2
+miR-141-3p,miR-33a-3p,TGCT - BLCA,2
+miR-141-3p,miR-33b-5p,SARC - PRAD,2
+miR-141-3p,miR-378a-3p,HNSC - TGCT,2
+miR-141-3p,miR-424-5p,TGCT - BLCA,2
+miR-141-3p,miR-766-3p,TGCT - LGG,2
+miR-141-5p,miR-192-5p,TGCT - BLCA,2
+miR-141-5p,miR-31-5p,TGCT - BLCA,2
+miR-142-3p,miR-146a-5p,SARC - STAD,2
+miR-142-3p,miR-150-5p,STAD - THCA,2
+miR-142-3p,miR-200c-3p,LGG - STAD,2
+miR-142-3p,miR-20a-5p,SARC - STAD,2
+miR-142-3p,miR-223-5p,LGG - STAD,2
+miR-142-3p,miR-29b-1-5p,BRCA - SARC,2
+miR-142-3p,miR-29b-2-5p,BRCA - SARC,2
+miR-142-3p,miR-324-5p,BRCA - BLCA,2
+miR-142-3p,miR-342-3p,BRCA - BLCA,2
+miR-142-3p,miR-342-5p,BRCA - TGCT,2
+miR-142-3p,miR-345-5p,BRCA - LGG,2
+miR-142-3p,miR-455-3p,SARC - STAD,2
+miR-142-3p,miR-484,BRCA - SARC,2
+miR-142-3p,miR-503-5p,STAD - BLCA,2
+miR-142-3p,miR-942-5p,BRCA - STAD,2
+miR-142-5p,miR-145-5p,SARC - STAD,2
+miR-142-5p,miR-150-3p,BRCA - TGCT,2
+miR-142-5p,miR-150-5p,KIRC - LGG,2
+miR-142-5p,miR-204-5p,LGG - THCA,2
+miR-142-5p,miR-20a-5p,THYM - STAD,2
+miR-142-5p,miR-21-5p,SARC - LGG,2
+miR-142-5p,miR-219a-1-3p,LGG - STAD,2
+miR-142-5p,miR-323a-3p,LGG - LIHC,2
+miR-142-5p,miR-362-3p,LGG - STAD,2
+miR-143-3p,miR-378a-5p,KIRP - LGG,2
+miR-143-5p,miR-29c-3p,SARC - LGG,2
+miR-144-3p,miR-33a-5p,LGG - STAD,2
+miR-145-3p,miR-23b-5p,LGG - STAD,2
+miR-145-5p,miR-150-5p,SARC - STAD,2
+miR-145-5p,miR-16-2-3p,LGG - STAD,2
+miR-145-5p,miR-17-5p,SARC - BLCA,2
+miR-145-5p,miR-185-5p,SARC - LGG,2
+miR-145-5p,miR-192-5p,KIRP - STAD,2
+miR-145-5p,miR-214-3p,LUAD - STAD,2
+miR-145-5p,miR-22-5p,SARC - LGG,2
+miR-145-5p,miR-29a-5p,BRCA - SARC,2
+miR-145-5p,miR-29b-3p,SARC - LGG,2
+miR-145-5p,miR-29c-3p,SARC - LGG,2
+miR-145-5p,miR-30a-5p,LUAD - STAD,2
+miR-145-5p,miR-324-5p,LUAD - SARC,2
+miR-145-5p,miR-377-5p,LGG - LIHC,2
+miR-145-5p,miR-424-5p,BRCA - KIRP,2
+miR-146a-5p,miR-148a-3p,STAD - THCA,2
+miR-146a-5p,miR-19a-3p,SARC - STAD,2
+miR-146b-5p,miR-34a-5p,UVM - SARC,2
+miR-148a-3p,miR-149-5p,BRCA - SARC,2
+miR-148a-3p,miR-182-5p,STAD - THCA,2
+miR-148a-3p,miR-183-5p,LGG - STAD,2
+miR-148a-3p,miR-193b-3p,BRCA - SARC,2
+miR-148a-3p,miR-19b-3p,BRCA - STAD,2
+miR-148a-3p,miR-200b-3p,SARC - STAD,2
+miR-148a-3p,miR-20b-5p,SARC - STAD,2
+miR-148a-3p,miR-218-5p,SARC - STAD,2
+miR-148a-3p,miR-29b-2-5p,BRCA - SARC,2
+miR-148a-3p,miR-29c-3p,SARC - LGG,2
+miR-148a-3p,miR-362-3p,SARC - STAD,2
+miR-148a-3p,miR-410-3p,SARC - LGG,2
+miR-148a-3p,miR-424-5p,SARC - STAD,2
+miR-148a-3p,miR-484,SARC - STAD,2
+miR-148a-3p,miR-501-5p,SARC - STAD,2
+miR-148a-3p,miR-505-3p,BRCA - STAD,2
+miR-148a-3p,miR-93-3p,BRCA - SARC,2
+miR-148a-3p,miR-940,BRCA - SARC,2
+miR-148b-5p,miR-19b-3p,BRCA - STAD,2
+miR-148b-5p,miR-203a-3p,BRCA - STAD,2
+miR-148b-5p,miR-671-5p,STAD - BLCA,2
+miR-148b-5p,miR-942-5p,STAD - BLCA,2
+miR-149-5p,miR-19a-3p,LIHC - BLCA,2
+miR-149-5p,miR-299-5p,LGG - STAD,2
+miR-149-5p,miR-331-3p,BRCA - BLCA,2
+miR-149-5p,miR-377-5p,BRCA - LGG,2
+miR-149-5p,miR-424-5p,HNSC - STAD,2
+miR-149-5p,miR-450b-5p,SARC - BLCA,2
+miR-149-5p,miR-491-5p,BRCA - LGG,2
+miR-149-5p,miR-744-5p,SARC - BLCA,2
+miR-149-5p,miR-940,BRCA - LGG,2
+miR-150-5p,miR-204-5p,SARC - LGG,2
+miR-150-5p,miR-625-5p,LGG - BLCA,2
+miR-150-5p,miR-642a-5p,SARC - LGG,2
+miR-150-5p,miR-9-5p,TGCT - STAD,2
+miR-150-5p,miR-96-5p,BRCA - THYM,2
+miR-152-3p,miR-219a-1-3p,SARC - LGG,2
+miR-153-3p,miR-33b-5p,BRCA - PAAD,2
+miR-155-5p,miR-16-2-3p,SARC - STAD,2
+miR-155-5p,miR-182-5p,TGCT - STAD,2
+miR-155-5p,miR-214-3p,STAD - BLCA,2
+miR-155-5p,miR-23b-5p,LGG - STAD,2
+miR-155-5p,miR-299-5p,LGG - STAD,2
+miR-155-5p,miR-29b-3p,TGCT - BLCA,2
+miR-155-5p,miR-320d,HNSC - STAD,2
+miR-155-5p,miR-324-5p,STAD - BLCA,2
+miR-155-5p,miR-339-5p,SARC - STAD,2
+miR-155-5p,miR-382-5p,SARC - LIHC,2
+miR-155-5p,miR-424-5p,STAD - BLCA,2
+miR-155-5p,miR-425-5p,BRCA - LGG,2
+miR-155-5p,miR-484,SARC - STAD,2
+miR-155-5p,miR-494-3p,LGG - STAD,2
+miR-155-5p,miR-590-3p,BRCA - SARC,2
+miR-155-5p,miR-629-3p,KIRP - STAD,2
+miR-155-5p,miR-671-5p,STAD - BLCA,2
+miR-155-5p,miR-7-1-3p,TGCT - STAD,2
+miR-155-5p,miR-9-3p,BRCA - STAD,2
+miR-155-5p,miR-96-5p,STAD - THCA,2
+miR-15b-5p,miR-766-3p,THYM - SARC,2
+miR-16-1-3p,miR-17-5p,THYM - SARC,2
+miR-16-1-3p,miR-877-5p,COAD - SARC,2
+miR-16-2-3p,miR-92a-1-5p,COAD - BRCA,2
+miR-17-3p,miR-378a-3p,UCEC - SARC,2
+miR-17-5p,miR-181a-5p,THYM - SARC,2
+miR-17-5p,miR-182-5p,STAD - BLCA,2
+miR-17-5p,miR-193b-3p,SARC - BLCA,2
+miR-17-5p,miR-19b-3p,BRCA - STAD,2
+miR-17-5p,miR-215-5p,THYM - BLCA,2
+miR-17-5p,miR-335-5p,SARC - BLCA,2
+miR-17-5p,miR-338-3p,LUSC - SARC,2
+miR-17-5p,miR-577,LUSC - STAD,2
+miR-17-5p,miR-625-3p,THYM - STAD,2
+miR-17-5p,miR-92a-1-5p,STAD - BLCA,2
+miR-17-5p,miR-93-3p,STAD - BLCA,2
+miR-17-5p,miR-940,BRCA - STAD,2
+miR-181a-2-3p,miR-193b-3p,SARC - BLCA,2
+miR-181a-2-3p,miR-20a-5p,THYM - SARC,2
+miR-181a-5p,miR-9-5p,THYM - SARC,2
+miR-181b-5p,miR-223-3p,SARC - BLCA,2
+miR-181b-5p,miR-9-5p,THYM - SARC,2
+miR-181c-5p,miR-204-5p,SARC - LGG,2
+miR-181c-5p,miR-29b-2-5p,BRCA - LGG,2
+miR-181d-5p,miR-194-5p,SARC - BLCA,2
+miR-181d-5p,miR-3065-5p,THYM - TGCT,2
+miR-181d-5p,miR-497-5p,THYM - TGCT,2
+miR-182-5p,miR-192-5p,SARC - STAD,2
+miR-182-5p,miR-196b-5p,STAD - BLCA,2
+miR-182-5p,miR-19b-1-5p,STAD - BLCA,2
+miR-182-5p,miR-200b-3p,STAD - BLCA,2
+miR-182-5p,miR-200c-3p,SARC - STAD,2
+miR-182-5p,miR-219a-1-3p,SARC - STAD,2
+miR-182-5p,miR-3065-3p,STAD - BLCA,2
+miR-182-5p,miR-320c,SARC - STAD,2
+miR-182-5p,miR-338-3p,STAD - BLCA,2
+miR-182-5p,miR-629-3p,TGCT - STAD,2
+miR-182-5p,miR-874-3p,SARC - STAD,2
+miR-182-5p,miR-9-3p,SARC - TGCT,2
+miR-182-5p,miR-9-5p,STAD - THCA,2
+miR-182-5p,miR-93-5p,STAD - BLCA,2
+miR-183-3p,miR-183-5p,THYM - TGCT,2
+miR-183-5p,miR-429,THYM - BLCA,2
+miR-183-5p,miR-484,SARC - STAD,2
+miR-183-5p,miR-500a-5p,STAD - BLCA,2
+miR-183-5p,miR-9-3p,SARC - TGCT,2
+miR-185-3p,miR-29c-3p,LGG - BLCA,2
+miR-185-3p,miR-33b-5p,LGG - BLCA,2
+miR-185-3p,miR-940,LGG - BLCA,2
+miR-185-5p,miR-200c-3p,SARC - LGG,2
+miR-185-5p,miR-27b-3p,SARC - LGG,2
+miR-185-5p,miR-362-3p,SARC - LGG,2
+miR-185-5p,miR-629-3p,SARC - LGG,2
+miR-18a-3p,miR-193b-3p,HNSC - LUAD,2
+miR-18a-3p,miR-7-5p,COAD - TGCT,2
+miR-18a-5p,miR-19a-3p,BRCA - BLCA,2
+miR-18a-5p,miR-19b-1-5p,SARC - BLCA,2
+miR-18a-5p,miR-20a-3p,BRCA - STAD,2
+miR-18a-5p,miR-296-5p,SARC - STAD,2
+miR-18a-5p,miR-32-5p,SARC - LGG,2
+miR-18a-5p,miR-330-3p,SARC - LGG,2
+miR-18a-5p,miR-33a-3p,SARC - BLCA,2
+miR-18a-5p,miR-410-3p,LGG - BLCA,2
+miR-18a-5p,miR-744-3p,HNSC - STAD,2
+miR-18a-5p,miR-92a-1-5p,THYM - BLCA,2
+miR-18a-5p,miR-940,SARC - STAD,2
+miR-18a-5p,miR-96-5p,LUAD - STAD,2
+miR-18b-5p,miR-9-5p,THYM - TGCT,2
+miR-192-5p,miR-3127-5p,BRCA - BLCA,2
+miR-192-5p,miR-320b,BRCA - STAD,2
+miR-192-5p,miR-424-5p,STAD - BLCA,2
+miR-192-5p,miR-511-5p,BRCA - BLCA,2
+miR-192-5p,miR-874-3p,SARC - STAD,2
+miR-193b-3p,miR-195-5p,STAD - BLCA,2
+miR-193b-3p,miR-203a-3p,ESCA - STAD,2
+miR-193b-3p,miR-26b-3p,BRCA - STAD,2
+miR-193b-3p,miR-320d,UCEC - THCA,2
+miR-193b-3p,miR-326,BRCA - STAD,2
+miR-193b-3p,miR-331-3p,BRCA - BLCA,2
+miR-193b-3p,miR-491-5p,BRCA - KIRP,2
+miR-193b-3p,miR-532-3p,BRCA - SARC,2
+miR-194-5p,miR-335-5p,STAD - BLCA,2
+miR-194-5p,miR-362-3p,STAD - BLCA,2
+miR-194-5p,miR-501-3p,STAD - BLCA,2
+miR-195-5p,miR-766-3p,TGCT - BLCA,2
+miR-196a-5p,miR-589-3p,ESCA - BRCA,2
+miR-196b-5p,miR-19a-3p,BRCA - STAD,2
+miR-196b-5p,miR-200c-3p,SARC - STAD,2
+miR-196b-5p,miR-20b-5p,SARC - BLCA,2
+miR-196b-5p,miR-218-5p,SARC - BLCA,2
+miR-196b-5p,miR-29b-1-5p,BRCA - HNSC,2
+miR-196b-5p,miR-301a-3p,SARC - BLCA,2
+miR-196b-5p,miR-429,TGCT - STAD,2
+miR-196b-5p,miR-92a-1-5p,BRCA - BLCA,2
+miR-196b-5p,miR-93-3p,STAD - BLCA,2
+miR-197-3p,miR-532-3p,BRCA - SARC,2
+miR-1976,miR-331-3p,SARC - LGG,2
+miR-199a-3p,miR-212-3p,SARC - BLCA,2
+miR-199a-3p,miR-338-3p,TGCT - BLCA,2
+miR-199a-5p,miR-20a-5p,BRCA - BLCA,2
+miR-199a-5p,miR-214-3p,SARC - BLCA,2
+miR-199b-3p,miR-338-3p,TGCT - BLCA,2
+miR-199b-3p,miR-93-3p,SARC - BLCA,2
+miR-19a-3p,miR-20a-3p,STAD - BLCA,2
+miR-19a-3p,miR-222-3p,BRCA - BLCA,2
+miR-19a-3p,miR-29b-1-5p,COAD - STAD,2
+miR-19a-3p,miR-301a-3p,BRCA - HNSC,2
+miR-19a-3p,miR-301b-3p,COAD - LIHC,2
+miR-19a-3p,miR-335-3p,COAD - BLCA,2
+miR-19a-3p,miR-335-5p,SARC - BLCA,2
+miR-19a-3p,miR-362-3p,LUAD - STAD,2
+miR-19a-3p,miR-577,COAD - STAD,2
+miR-19a-3p,miR-590-5p,BRCA - BLCA,2
+miR-19a-3p,miR-7-5p,STAD - BLCA,2
+miR-19a-3p,miR-93-5p,STAD - BLCA,2
+miR-19a-3p,miR-940,BRCA - SARC,2
+miR-19b-1-5p,miR-20a-3p,STAD - BLCA,2
+miR-19b-1-5p,miR-20a-5p,STAD - BLCA,2
+miR-19b-1-5p,miR-31-5p,STAD - BLCA,2
+miR-19b-1-5p,miR-335-5p,STAD - BLCA,2
+miR-19b-1-5p,miR-339-5p,SARC - BLCA,2
+miR-19b-1-5p,miR-421,SARC - STAD,2
+miR-19b-1-5p,miR-766-3p,SARC - BLCA,2
+miR-19b-1-5p,miR-93-3p,STAD - BLCA,2
+miR-19b-3p,miR-20a-3p,BRCA - STAD,2
+miR-19b-3p,miR-335-5p,SARC - STAD,2
+miR-19b-3p,miR-338-3p,HNSC - SARC,2
+miR-19b-3p,miR-339-5p,SARC - STAD,2
+miR-19b-3p,miR-500a-5p,HNSC - STAD,2
+miR-19b-3p,miR-501-5p,SARC - STAD,2
+miR-19b-3p,miR-9-5p,BRCA - STAD,2
+miR-200a-3p,miR-2110,LGG - STAD,2
+miR-200a-3p,miR-214-3p,HNSC - STAD,2
+miR-200a-3p,miR-221-3p,LGG - THCA,2
+miR-200a-3p,miR-29b-1-5p,LUAD - BLCA,2
+miR-200a-3p,miR-29b-3p,LGG - BLCA,2
+miR-200a-3p,miR-33a-3p,TGCT - BLCA,2
+miR-200a-3p,miR-429,BRCA - LUAD,2
+miR-200a-3p,miR-7-5p,STAD - BLCA,2
+miR-200a-3p,miR-942-5p,STAD - BLCA,2
+miR-200a-3p,miR-944,LUSC - BLCA,2
+miR-200b-3p,miR-21-5p,SARC - LGG,2
+miR-200b-3p,miR-338-3p,TGCT - STAD,2
+miR-200b-3p,miR-629-3p,SARC - BLCA,2
+miR-200b-3p,miR-7-5p,STAD - BLCA,2
+miR-200b-3p,miR-874-3p,SARC - STAD,2
+miR-200b-3p,miR-93-3p,SARC - STAD,2
+miR-200b-3p,miR-93-5p,STAD - BLCA,2
+miR-200b-3p,miR-940,SARC - BLCA,2
+miR-200b-3p,miR-96-5p,STAD - BLCA,2
+miR-200b-5p,miR-342-3p,LIHC - BLCA,2
+miR-200c-3p,miR-224-5p,TGCT - LGG,2
+miR-200c-3p,miR-3065-3p,SARC - TGCT,2
+miR-200c-3p,miR-342-3p,STAD - BLCA,2
+miR-200c-3p,miR-93-5p,STAD - BLCA,2
+miR-200c-3p,miR-96-5p,STAD - BLCA,2
+miR-203a-3p,miR-3065-3p,SARC - TGCT,2
+miR-203a-3p,miR-378a-3p,SARC - LGG,2
+miR-203a-3p,miR-874-3p,LGG - STAD,2
+miR-203a-3p,miR-92a-1-5p,BRCA - HNSC,2
+miR-204-5p,miR-301a-3p,LUAD - TGCT,2
+miR-204-5p,miR-30c-2-3p,BRCA - LUAD,2
+miR-204-5p,miR-410-3p,THYM - LGG,2
+miR-204-5p,miR-940,LGG - THCA,2
+miR-205-5p,miR-214-3p,TGCT - BLCA,2
+miR-205-5p,miR-335-5p,BRCA - TGCT,2
+miR-205-5p,miR-944,PRAD - BLCA,2
+miR-20a-3p,miR-20a-5p,LUAD - STAD,2
+miR-20a-3p,miR-362-3p,SARC - STAD,2
+miR-20a-3p,miR-503-5p,BRCA - BLCA,2
+miR-20a-3p,miR-629-3p,BRCA - STAD,2
+miR-20a-3p,miR-9-5p,BRCA - STAD,2
+miR-20a-3p,miR-93-3p,BRCA - STAD,2
+miR-20a-3p,miR-93-5p,STAD - BLCA,2
+miR-20a-3p,miR-96-5p,STAD - BLCA,2
+miR-20a-5p,miR-2110,STAD - BLCA,2
+miR-20a-5p,miR-219a-1-3p,SARC - BLCA,2
+miR-20a-5p,miR-30a-5p,THYM - STAD,2
+miR-20a-5p,miR-335-5p,STAD - BLCA,2
+miR-20a-5p,miR-34a-5p,OV - SARC,2
+miR-20a-5p,miR-424-5p,STAD - BLCA,2
+miR-20a-5p,miR-625-3p,THYM - STAD,2
+miR-20a-5p,miR-874-3p,STAD - BLCA,2
+miR-20a-5p,miR-92a-1-5p,STAD - BLCA,2
+miR-20a-5p,miR-93-5p,STAD - BLCA,2
+miR-20b-5p,miR-3065-3p,HNSC - TGCT,2
+miR-20b-5p,miR-320d,LUAD - TGCT,2
+miR-20b-5p,miR-363-3p,LUAD - BLCA,2
+miR-20b-5p,miR-497-3p,THYM - PRAD,2
+miR-20b-5p,miR-629-3p,LUAD - STAD,2
+miR-20b-5p,miR-9-5p,HNSC - TGCT,2
+miR-20b-5p,miR-92b-3p,THYM - TGCT,2
+miR-21-3p,miR-29b-3p,SARC - BLCA,2
+miR-21-3p,miR-381-3p,SARC - LGG,2
+miR-21-3p,miR-493-3p,SARC - THCA,2
+miR-21-3p,miR-92a-1-5p,SARC - BLCA,2
+miR-21-5p,miR-29b-3p,SARC - LGG,2
+miR-21-5p,miR-629-3p,SARC - LGG,2
+miR-2110,miR-326,LGG - STAD,2
+miR-212-3p,miR-330-3p,SARC - LGG,2
+miR-212-3p,miR-330-5p,SARC - LGG,2
+miR-212-3p,miR-874-3p,SARC - LGG,2
+miR-212-3p,miR-940,LGG - THCA,2
+miR-214-3p,miR-27a-5p,BRCA - SARC,2
+miR-214-3p,miR-362-3p,SARC - STAD,2
+miR-214-3p,miR-589-3p,SARC - STAD,2
+miR-214-3p,miR-758-3p,HNSC - SARC,2
+miR-214-3p,miR-93-3p,SARC - STAD,2
+miR-218-5p,miR-22-5p,SARC - LGG,2
+miR-218-5p,miR-299-5p,SARC - LGG,2
+miR-218-5p,miR-31-5p,LGG - BLCA,2
+miR-218-5p,miR-323a-3p,SARC - LGG,2
+miR-218-5p,miR-330-5p,SARC - LGG,2
+miR-218-5p,miR-33b-5p,SARC - LGG,2
+miR-218-5p,miR-370-3p,SARC - LGG,2
+miR-218-5p,miR-495-3p,SARC - LGG,2
+miR-218-5p,miR-497-5p,KIRP - SARC,2
+miR-218-5p,miR-625-5p,PCPG - LGG,2
+miR-218-5p,miR-9-5p,HNSC - STAD,2
+miR-219a-5p,miR-342-5p,SARC - TGCT,2
+miR-22-5p,miR-221-3p,SARC - LGG,2
+miR-22-5p,miR-299-5p,SARC - LGG,2
+miR-22-5p,miR-323a-3p,SARC - LGG,2
+miR-221-3p,miR-330-3p,SARC - LGG,2
+miR-221-3p,miR-424-5p,BLCA - THCA,2
+miR-221-3p,miR-96-5p,LGG - THCA,2
+miR-222-3p,miR-7-5p,LGG - BLCA,2
+miR-222-5p,miR-31-5p,STAD - BLCA,2
+miR-222-5p,miR-33b-5p,SARC - STAD,2
+miR-222-5p,miR-874-3p,SARC - STAD,2
+miR-23b-3p,miR-421,SARC - LGG,2
+miR-23b-3p,miR-766-3p,SARC - LGG,2
+miR-26b-3p,miR-33a-5p,BRCA - STAD,2
+miR-26b-3p,miR-484,BRCA - STAD,2
+miR-26b-3p,miR-589-3p,LUAD - STAD,2
+miR-27a-5p,miR-335-3p,BRCA - STAD,2
+miR-296-5p,miR-9-5p,BRCA - UCEC,2
+miR-299-5p,miR-330-5p,SARC - LGG,2
+miR-299-5p,miR-335-5p,BRCA - SARC,2
+miR-299-5p,miR-377-3p,LGG - LIHC,2
+miR-29a-3p,miR-511-5p,SKCM - SARC,2
+miR-29a-5p,miR-532-3p,BRCA - LUAD,2
+miR-29a-5p,miR-93-3p,BRCA - LUAD,2
+miR-29b-2-5p,miR-301a-3p,BRCA - LUAD,2
+miR-29b-2-5p,miR-331-3p,BRCA - LGG,2
+miR-29b-2-5p,miR-338-3p,BRCA - LGG,2
+miR-29b-2-5p,miR-33a-3p,BRCA - BLCA,2
+miR-29b-2-5p,miR-33b-5p,BRCA - LUAD,2
+miR-29b-2-5p,miR-3928-3p,BRCA - SARC,2
+miR-29b-2-5p,miR-429,BRCA - BLCA,2
+miR-29b-2-5p,miR-766-3p,BRCA - LGG,2
+miR-29b-3p,miR-301a-3p,LUAD - BLCA,2
+miR-29b-3p,miR-31-5p,LGG - BLCA,2
+miR-29b-3p,miR-330-3p,SARC - LGG,2
+miR-29b-3p,miR-335-5p,SARC - BLCA,2
+miR-29b-3p,miR-338-5p,SARC - LGG,2
+miR-29b-3p,miR-33a-5p,LGG - BLCA,2
+miR-29b-3p,miR-410-3p,HNSC - LGG,2
+miR-29b-3p,miR-424-5p,LUAD - BLCA,2
+miR-29b-3p,miR-625-5p,LGG - BLCA,2
+miR-29b-3p,miR-769-3p,SARC - LGG,2
+miR-29b-3p,miR-9-5p,TGCT - BLCA,2
+miR-29b-3p,miR-942-5p,TGCT - BLCA,2
+miR-29b-3p,miR-96-5p,TGCT - BLCA,2
+miR-29c-3p,miR-33a-5p,LGG - BLCA,2
+miR-29c-3p,miR-410-3p,LGG - BLCA,2
+miR-29c-3p,miR-642a-5p,TGCT - LGG,2
+miR-29c-3p,miR-7-5p,TGCT - LGG,2
+miR-301a-3p,miR-425-5p,BRCA - SARC,2
+miR-301a-3p,miR-505-5p,BRCA - LUAD,2
+miR-301a-3p,miR-877-5p,BRCA - BLCA,2
+miR-301b-3p,miR-335-3p,STAD - BLCA,2
+miR-301b-3p,miR-503-5p,LUAD - BLCA,2
+miR-301b-3p,miR-580-3p,HNSC - THYM,2
+miR-3065-3p,miR-424-5p,SARC - THCA,2
+miR-3065-3p,miR-760,TGCT - LGG,2
+miR-30a-3p,miR-30a-5p,HNSC - STAD,2
+miR-30a-3p,miR-7-5p,HNSC - BLCA,2
+miR-30a-3p,miR-877-5p,BRCA - HNSC,2
+miR-30b-3p,miR-96-5p,BRCA - STAD,2
+miR-30c-2-3p,miR-335-5p,BRCA - LIHC,2
+miR-30c-2-3p,miR-338-3p,LUSC - SARC,2
+miR-31-5p,miR-379-3p,THYM - LGG,2
+miR-31-5p,miR-421,LGG - STAD,2
+miR-31-5p,miR-7-5p,TGCT - LGG,2
+miR-32-5p,miR-33b-5p,SARC - LGG,2
+miR-320b,miR-33a-5p,BRCA - SARC,2
+miR-320b,miR-425-5p,BRCA - STAD,2
+miR-320b,miR-940,BRCA - STAD,2
+miR-323a-3p,miR-331-3p,BRCA - LGG,2
+miR-323a-3p,miR-369-3p,TGCT - LGG,2
+miR-323a-3p,miR-424-5p,BRCA - SARC,2
+miR-323a-3p,miR-940,TGCT - LGG,2
+miR-324-5p,miR-505-3p,BRCA - STAD,2
+miR-324-5p,miR-532-3p,BRCA - LUAD,2
+miR-324-5p,miR-616-5p,BRCA - SARC,2
+miR-324-5p,miR-940,STAD - BLCA,2
+miR-326,miR-7-5p,LGG - STAD,2
+miR-326,miR-766-3p,BRCA - LGG,2
+miR-330-3p,miR-378a-5p,SARC - LGG,2
+miR-330-3p,miR-424-5p,SARC - BLCA,2
+miR-330-3p,miR-766-3p,LGG - BLCA,2
+miR-330-3p,miR-940,LGG - BLCA,2
+miR-330-3p,miR-942-5p,SARC - BLCA,2
+miR-331-3p,miR-338-3p,BRCA - LGG,2
+miR-331-3p,miR-33a-5p,LGG - STAD,2
+miR-331-3p,miR-378a-3p,LGG - STAD,2
+miR-331-3p,miR-503-5p,BRCA - STAD,2
+miR-331-3p,miR-532-3p,BRCA - STAD,2
+miR-331-3p,miR-577,LGG - STAD,2
+miR-331-3p,miR-625-5p,LGG - STAD,2
+miR-331-3p,miR-940,LGG - BLCA,2
+miR-335-3p,miR-335-5p,HNSC - TGCT,2
+miR-335-3p,miR-424-5p,TGCT - STAD,2
+miR-335-3p,miR-505-5p,STAD - BLCA,2
+miR-335-3p,miR-942-5p,BRCA - STAD,2
+miR-335-5p,miR-342-5p,TGCT - STAD,2
+miR-335-5p,miR-484,BRCA - STAD,2
+miR-335-5p,miR-651-5p,STAD - BLCA,2
+miR-335-5p,miR-96-5p,BRCA - STAD,2
+miR-338-3p,miR-338-5p,BRCA - THCA,2
+miR-338-3p,miR-424-5p,HNSC - STAD,2
+miR-338-3p,miR-450b-5p,SARC - TGCT,2
+miR-338-3p,miR-582-5p,HNSC - TGCT,2
+miR-338-3p,miR-944,TGCT - THCA,2
+miR-33a-3p,miR-589-3p,STAD - BLCA,2
+miR-33a-5p,miR-454-3p,BRCA - SARC,2
+miR-33a-5p,miR-484,BRCA - STAD,2
+miR-33a-5p,miR-500a-5p,LUAD - STAD,2
+miR-33a-5p,miR-589-3p,UCEC - STAD,2
+miR-33a-5p,miR-874-3p,STAD - THCA,2
+miR-33a-5p,miR-942-5p,BRCA - SARC,2
+miR-33b-5p,miR-484,BRCA - STAD,2
+miR-33b-5p,miR-503-5p,HNSC - SARC,2
+miR-33b-5p,miR-642a-5p,LGG - STAD,2
+miR-342-5p,miR-625-5p,SARC - BLCA,2
+miR-345-5p,miR-93-5p,STAD - BLCA,2
+miR-34a-5p,miR-362-3p,SARC - LGG,2
+miR-34a-5p,miR-450b-5p,SARC - LGG,2
+miR-34a-5p,miR-625-3p,UCEC - SARC,2
+miR-34a-5p,miR-625-5p,SARC - LGG,2
+miR-362-3p,miR-424-5p,SARC - STAD,2
+miR-362-3p,miR-532-3p,SARC - STAD,2
+miR-362-3p,miR-576-5p,SARC - STAD,2
+miR-362-3p,miR-590-5p,STAD - BLCA,2
+miR-362-3p,miR-629-3p,PRAD - STAD,2
+miR-362-3p,miR-96-5p,STAD - BLCA,2
+miR-362-5p,miR-424-5p,SARC - STAD,2
+miR-362-5p,miR-96-5p,LUAD - BLCA,2
+miR-369-3p,miR-377-5p,TGCT - LGG,2
+miR-369-3p,miR-766-3p,LGG - LIHC,2
+miR-370-3p,miR-625-5p,SARC - LGG,2
+miR-376c-3p,miR-7-5p,BRCA - LGG,2
+miR-377-5p,miR-424-5p,SKCM - HNSC,2
+miR-377-5p,miR-582-5p,LGG - BLCA,2
+miR-378a-3p,miR-378a-5p,LGG - BLCA,2
+miR-378a-3p,miR-7-5p,TGCT - LGG,2
+miR-378a-5p,miR-766-3p,LGG - LIHC,2
+miR-410-3p,miR-494-3p,LIHC - BLCA,2
+miR-421,miR-92a-1-5p,SARC - STAD,2
+miR-424-5p,miR-425-5p,HNSC - STAD,2
+miR-424-5p,miR-450a-5p,BRCA - SARC,2
+miR-424-5p,miR-450b-5p,SARC - TGCT,2
+miR-424-5p,miR-484,BRCA - SARC,2
+miR-424-5p,miR-497-5p,SARC - TGCT,2
+miR-424-5p,miR-532-3p,SARC - STAD,2
+miR-424-5p,miR-539-5p,BRCA - SARC,2
+miR-424-5p,miR-7-1-3p,SARC - STAD,2
+miR-424-5p,miR-7-5p,HNSC - BLCA,2
+miR-424-5p,miR-93-3p,SARC - STAD,2
+miR-424-5p,miR-940,SARC - TGCT,2
+miR-424-5p,miR-942-5p,STAD - BLCA,2
+miR-429,miR-452-3p,THYM - TGCT,2
+miR-429,miR-96-5p,COAD - BLCA,2
+miR-4326,miR-651-5p,BRCA - STAD,2
+miR-450b-5p,miR-766-3p,SARC - TGCT,2
+miR-455-3p,miR-484,SARC - STAD,2
+miR-455-5p,miR-877-5p,BRCA - BLCA,2
+miR-484,miR-505-3p,SARC - STAD,2
+miR-484,miR-92a-1-5p,SARC - STAD,2
+miR-484,miR-96-5p,BRCA - STAD,2
+miR-495-3p,miR-543,SARC - LGG,2
+miR-495-3p,miR-625-5p,SARC - LGG,2
+miR-495-3p,miR-654-3p,SARC - LGG,2
+miR-495-3p,miR-766-3p,SARC - LGG,2
+miR-495-3p,miR-874-3p,SARC - LGG,2
+miR-503-5p,miR-7-1-3p,BRCA - SARC,2
+miR-505-3p,miR-532-3p,BRCA - STAD,2
+miR-505-3p,miR-590-5p,BRCA - STAD,2
+miR-532-3p,miR-616-5p,BRCA - SARC,2
+miR-532-3p,miR-7-1-3p,SARC - STAD,2
+miR-542-3p,miR-9-5p,SARC - THCA,2
+miR-543,miR-766-3p,SARC - LGG,2
+miR-582-3p,miR-940,TGCT - LGG,2
+miR-582-5p,miR-7-5p,TGCT - LGG,2
+miR-582-5p,miR-766-3p,TGCT - LGG,2
+miR-589-3p,miR-629-3p,SARC - BLCA,2
+miR-589-3p,miR-7-1-3p,SARC - STAD,2
+miR-589-3p,miR-7-5p,HNSC - THCA,2
+miR-625-5p,miR-942-5p,COAD - SARC,2
+miR-629-3p,miR-9-5p,TGCT - BLCA,2
+miR-629-3p,miR-93-3p,BRCA - STAD,2
+miR-642a-5p,miR-7-5p,PAAD - BLCA,2
+miR-651-5p,miR-940,BRCA - LGG,2
+miR-653-5p,miR-940,SARC - BLCA,2
+miR-671-5p,miR-7-5p,BRCA - BLCA,2
+miR-671-5p,miR-766-3p,SARC - BLCA,2
+miR-7-5p,miR-766-3p,TGCT - LGG,2
+miR-7-5p,miR-9-5p,LUAD - TGCT,2
+miR-7-5p,miR-935,BRCA - LGG,2
+miR-7-5p,miR-942-5p,COAD - STAD,2
+miR-7-5p,miR-96-5p,TGCT - STAD,2
+miR-766-3p,miR-769-3p,BRCA - LGG,2
+miR-766-3p,miR-9-3p,SARC - TGCT,2
+miR-766-3p,miR-92a-1-5p,THYM - BLCA,2
+miR-766-3p,miR-935,THYM - LGG,2
+miR-9-5p,miR-93-3p,SARC - BLCA,2
+miR-93-3p,miR-93-5p,STAD - BLCA,2
+miR-93-3p,miR-96-5p,BRCA - BLCA,2
+miR-93-5p,miR-96-5p,STAD - BLCA,2

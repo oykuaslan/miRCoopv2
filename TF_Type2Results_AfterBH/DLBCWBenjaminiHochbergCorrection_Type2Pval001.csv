@@ -1,0 +1,1 @@
+miRNA1,miRNA2,TF1,TF2,Target,ModeOfRegulation1,ModeOfRegulation2,TwoVar_mirna1_tf1,TwoVar_mirna1_target,TwoVar_mirna2_tf2,TwoVar_mirna2_target,mirna1mirna2_target,BH_rejected,BH_pvalues_adjusted

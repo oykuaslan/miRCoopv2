@@ -1,0 +1,16 @@
+shared_name,name,info
+let-7c-5p,let-7c-5p,mirna
+mir-130b-3p,mir-130b-3p,mirna
+mir-429,mir-429,mirna
+mir-30a-3p,mir-30a-3p,mirna
+mir-301b-3p,mir-301b-3p,mirna
+mir-592,mir-592,mirna
+MYC_tf,MYC,tf
+NFKB1_tf,NFKB1,tf
+MYC_tf,MYC,tf
+DKC1_target,DKC1,target
+PLAUR_target,PLAUR,target
+TGFB2_target,TGFB2,target
+let-7c-5p/mir-30a-3p,"",dummy
+mir-130b-3p/mir-301b-3p,"",dummy
+mir-429/mir-592,"",dummy

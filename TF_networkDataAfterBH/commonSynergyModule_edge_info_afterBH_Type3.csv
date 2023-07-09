@@ -1,0 +1,31 @@
+source,target,edgeType,CancerTypes
+miR-130b-5p,miR-130b-5p/miR-324-5p,direct,
+miR-17-5p,miR-17-5p/miR-20a-5p,direct,
+miR-17-5p,miR-17-5p/miR-20a-5p,direct,
+miR-182-5p,miR-182-5p/miR-183-5p,direct,
+miR-18a-5p,miR-18a-5p/miR-20a-5p,direct,
+miR-19a-3p,miR-19a-3p/miR-19b-3p,direct,
+miR-324-5p,miR-130b-5p/miR-324-5p,direct,
+miR-20a-5p,miR-17-5p/miR-20a-5p,direct,
+miR-20a-5p,miR-17-5p/miR-20a-5p,direct,
+miR-183-5p,miR-182-5p/miR-183-5p,direct,
+miR-20a-5p,miR-18a-5p/miR-20a-5p,direct,
+miR-19b-3p,miR-19a-3p/miR-19b-3p,direct,
+miR-130b-5p/miR-324-5p,FOXO1_tf,direct,
+miR-17-5p/miR-20a-5p,MEF2A_tf,direct,
+miR-17-5p/miR-20a-5p,STAT3_tf,direct,
+miR-182-5p/miR-183-5p,FOXO1_tf,direct,
+miR-18a-5p/miR-20a-5p,STAT3_tf,direct,
+miR-19a-3p/miR-19b-3p,IKZF1_tf,direct,
+FOXO1_tf,NOS3_target,direct,
+MEF2A_tf,PICALM_target,direct,
+STAT3_tf,PTGS2_target,direct,
+FOXO1_tf,TMEM47_target,direct,
+STAT3_tf,LBP_target,direct,
+IKZF1_tf,GRAP2_target,direct,
+miR-130b-5p/miR-324-5p,NOS3_target,indirect,STAD - BLCA
+miR-17-5p/miR-20a-5p,PICALM_target,indirect,STAD - BLCA
+miR-17-5p/miR-20a-5p,PTGS2_target,indirect,LIHC - STAD
+miR-182-5p/miR-183-5p,TMEM47_target,indirect,HNSC - UCEC
+miR-18a-5p/miR-20a-5p,LBP_target,indirect,HNSC - BLCA
+miR-19a-3p/miR-19b-3p,GRAP2_target,indirect,HNSC - STAD

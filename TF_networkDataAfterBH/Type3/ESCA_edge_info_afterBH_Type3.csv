@@ -1,0 +1,11 @@
+source,target,ModeOfRegulation,edgeType
+mir-100-5p,mir-100-5p/mir-152-3p,"",direct
+mir-192-5p,mir-192-5p/mir-215-5p,"",direct
+mir-152-3p,mir-100-5p/mir-152-3p,"",direct
+mir-215-5p,mir-192-5p/mir-215-5p,"",direct
+mir-100-5p/mir-152-3p,ZBTB7A_tf,"",direct
+mir-192-5p/mir-215-5p,NCOA3_tf,"",direct
+ZBTB7A_tf,LAMA5_target,-1,direct
+NCOA3_tf,SYNE2_target,1,direct
+mir-100-5p/mir-152-3p,LAMA5_target,"",indirect
+mir-192-5p/mir-215-5p,SYNE2_target,"",indirect

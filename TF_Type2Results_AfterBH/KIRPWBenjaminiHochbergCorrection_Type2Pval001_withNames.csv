@@ -1,0 +1,10 @@
+"miRNA1","miRNA2","TF1","hgnc_symbol_tf1","TF2","hgnc_symbol_tf2","Target","hgnc_symbol_target","ModeOfRegulation1","ModeOfRegulation2","TwoVar_mirna1_tf1","TwoVar_mirna1_target","TwoVar_mirna2_tf2","TwoVar_mirna2_target","mirna1mirna2_target","BH_pvalues_adjusted"
+"hsa-mir-183-5p","hsa-mir-503-5p",4779,"NFE2L1",2908,"NR3C1",800,"CALD1",1,1,0,0.6385,0,0.0105,5e-04,0.0318473132372215
+"hsa-mir-378c","hsa-mir-618",7528,"YY1",6774,"STAT3",1956,"EGFR",1,1,0.0015,0.2195,0,0.114,5e-04,0.0318473132372215
+"hsa-mir-138-5p","hsa-mir-34c-5p",3172,"HNF4A",5465,"PPARA",5105,"PCK1",1,1,0.001,0.0175,0,0.1155,5e-04,0.0318473132372215
+"hsa-mir-223-3p","hsa-mir-424-5p",6667,"SP1",2113,"ETS1",7048,"TGFBR2",1,1,0.0055,0.0265,0.007,0.9815,0,0
+"hsa-mir-378a-5p","hsa-mir-877-5p",1958,"EGR1",6670,"SP3",7077,"TIMP2",1,1,0,0.0145,5e-04,0.0535,0,0
+"hsa-mir-135a-5p","hsa-mir-142-3p",4609,"MYC",2099,"ESR1",7157,"TP53",1,-1,0.0015,0.0915,0,0.2115,0,0
+"hsa-mir-193b-3p","hsa-mir-9-5p",2034,"EPAS1",3091,"HIF1A",8553,"BHLHE40",1,1,0,0.2415,0.0035,0.0435,5e-04,0.0318473132372215
+"hsa-mir-9-5p","hsa-mir-942-5p",3091,"HIF1A",6689,"SPIB",8553,"BHLHE40",1,1,0.0035,0.044,0,0.0795,5e-04,0.0318473132372215
+"hsa-mir-3065-3p","hsa-mir-421",9935,"MAFB",4097,"MAFG",342184,"FMN1",1,1,5e-04,0.164,0,0.3145,0,0
